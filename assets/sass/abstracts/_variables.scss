@@ -1,0 +1,32 @@
+// Color schemes
+// Primary color scheme
+$clr-primary: hsl(200.87, 21.1%, 21.37%);
+$clr-secondary: hsl(202.11, 23.17%, 32.16%);
+$clr-light: hsl(198.18, 33.33%, 80.59%);
+$clr-cream: hsl(0, 0%, 93.73%);
+$clr-white: #fff;
+$clr-highlight: hsl(17.36, 100%, 52.55%);
+
+// Gradient color scheme
+$clr-grad-1: hsl(60, 93.33%, 70.59%);
+$clr-grad-2:hsl(80, 75.95%, 69.02%);
+$clr-grad-3:hsl(107.23, 57.32%, 67.84%);
+$clr-grad-4:hsl(140.79, 48.33%, 59.02%);
+$clr-grad-5:hsl(161.46, 51.9%, 46.47%);
+$clr-grad-6:hsl(173.64, 90.42%, 32.75%);
+$clr-grad-7:hsl(180.43, 100%, 27.06%);
+$clr-grad-8:hsl(186.05, 88.15%, 26.47%);
+$clr-grad-9:hsl(193.25, 53.85%, 28.04%);
+$clr-grad-10:hsl(200.87, 35.38%, 25.49%);
+
+// Font families
+$ff-primary: "Roboto", sans-serif;
+$ff-secondary: "Open Sans", sans-serif;
+
+// Font weight
+$light: 400;
+$regular: 600;
+$bold: 900;
+
+// Transitions
+$transition: all 0.3s linear;
